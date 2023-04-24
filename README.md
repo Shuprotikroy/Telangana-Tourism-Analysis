@@ -3,17 +3,6 @@ Data Analysis Of Telangana government tourism highlighting key insights related 
 
 Each section is highlighted by a question no such as Q1/Q2 and so on, incase you want to better understand the data processing, cleaning or how I generated a particular graph, just search for Q in the comments.
 
-# Libaries used
--pip install pandas
-
--pip install numpy
-
--pip install plotly
-
--pip install bs4 
-
--pip install requests
-
 # Insights Generated 
 
 ## 𝗖𝗔𝗚𝗥(𝗗𝗼𝗺𝗲𝘀𝘁𝗶𝗰 & 𝗙𝗼𝗿𝗲𝗶𝗴𝗻)& Domestic Tourists Distribution
@@ -30,5 +19,17 @@ Each section is highlighted by a question no such as Q1/Q2 and so on, incase you
 
 ## 𝗧𝗼𝘂𝗿𝗶𝘀𝗺 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝗶𝗼𝗻𝘀
 ![Screenshot (170)](https://user-images.githubusercontent.com/70252750/233910080-bcbb47e1-8ed7-4ceb-aabc-5a98e58d2e81.png)
+
+
+# Libaries used
+-pip install pandas
+
+-pip install numpy
+
+-pip install plotly
+
+-pip install bs4 
+
+-pip install requests
 
 
