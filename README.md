@@ -2,7 +2,7 @@
 
 ## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
 
-- Refer to touristanalysis.py for the python code
+- Refer to touristanalysis.py for the python code 
 
 This project conducts a Data Analysis Of Telangana government tourism highlighting key insights related to domestic and foreign tourists through various graphs, this project also consists of web scraping which has been used to generate data to further help my analysis.
 
