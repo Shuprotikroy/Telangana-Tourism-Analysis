@@ -11,7 +11,7 @@ Each section is highlighted by a question no such as Q1/Q2 and so on, incase you
 # Tools Used
 - Python (Pandas & Numpy) For Data Processing
 - Plotly For Data Visualization
-- BeautifulSoup for Web Scraping
+- BeautifulSoup for Web Scraping 
 
 # Insights Generated 
 
